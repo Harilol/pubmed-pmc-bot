@@ -12,6 +12,7 @@ API Integration: Uses NCBI's E-utilities API for live, up-to-date biomedical lit
 Context Management: Safely truncates large payloads to stay within LLM token limits without losing critical introduction/methods data.
 Interactive UI: Clean Streamlit interface for seamless querying and research review.
 Tech Stack
+
 Agent Framework: LangGraph, LangChain
 
 LLM: Groq (Llama-3.1-8b-instant)
