@@ -1,7 +1,6 @@
 # pubmed-pmc-bot
 Biomedical Research Agent
 
-
 An AI agent that autonomously routes user queries to search and synthesize medical research from NCBI databases (PubMed & PMC).
 
 Overview
@@ -22,7 +21,10 @@ Language: Python
 
 How to Run
 1.Clone the repository.
+
 2.Install dependencies: pip install -r requirements.txt
+
 3.Add your Groq API key to a .env file: 
+
 4.GROQ_API_KEY="your-key"
 Run the app: `streamlit run ui.py
