@@ -13,9 +13,13 @@ Context Management: Safely truncates large payloads to stay within LLM token lim
 Interactive UI: Clean Streamlit interface for seamless querying and research review.
 Tech Stack
 Agent Framework: LangGraph, LangChain
+
 LLM: Groq (Llama-3.1-8b-instant)
+
 Data Source: NCBI E-utilities API (PubMed, PMC)
+
 UI: Streamlit
+
 Language: Python
 
 
